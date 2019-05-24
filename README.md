@@ -21,6 +21,7 @@ about time of execution and performance about the program, and it also works whi
 # Dependencies 
 
 Bash dependencies:
+
 apt-get install exifftool
 
 Ruby dependencies:
