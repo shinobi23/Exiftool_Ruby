@@ -13,5 +13,5 @@ take all the pictures in that file.
 # Extractor.rb
 
 This script implements mini_exifftool library wich is more faster and have new
-features like cache storage,  this script will also show you a debug about the 
-time for each operation using benchmarking.
+features like cache storage,  this script use benchmarking to report via console
+about time of execution and performance about the program, and it also works while execution.
