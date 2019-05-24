@@ -18,13 +18,11 @@ This script implements mini_exifftool library wich is more faster and have new
 features like cache storage,  this script use benchmarking to report via console
 about time of execution and performance about the program, and it also works while execution.
 
-# Dependencies 
-
-Bash dependencies:
+# Dependencies for bash:
 
 apt-get install exifftool
 
-Ruby dependencies:
+# dependencies for ruby:
 
 gem install mini_exiftool 
 
